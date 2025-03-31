@@ -12,6 +12,7 @@ public class task1 {
             massiv[i] = b;
         }
 
+
         int minNumber = massiv[0];
 
         for(int i= 0;i<a;i++){
