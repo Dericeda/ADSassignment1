@@ -1,5 +1,7 @@
 import java.util.Scanner;
-
+// This function calculates the average of 'a' numbers
+// We initialize the sum variable to 0, then sum the 'a' input numbers
+// Time complexity: O(a), because we loop over all 'a' input numbers once
 public class task2 {
 
     public static void main(String[] args){
