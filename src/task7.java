@@ -19,4 +19,5 @@ public class task7 {
         reverseFunction(a, input);
     }
 
+
 }
